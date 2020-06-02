@@ -16,7 +16,7 @@ public class HomeController {
 
 	@RequestMapping(value = "index", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_VALUE)
 	public @ResponseBody String home(@RequestBody String id) {
-		return id; 
+		return id;
 	}
 
 }
