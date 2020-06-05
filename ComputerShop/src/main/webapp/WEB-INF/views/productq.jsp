@@ -215,15 +215,30 @@
 								</div>
 							</div>
 							<div style="margin: 0px auto">
-								<div class="btn-group">
-									<button type="button" class="btn btn-outline-primary"><</button>
-									<button type="button" class="btn btn-primary"
-										disabled="disabled"}>1</button>
-									<button type="button" class="btn btn-primary">2</button>
-									<button type="button" class="btn btn-primary">3</button>
-									<button type="button" class="btn btn-primary">4</button>
-									<button type="button" class="btn btn-outline-primary">></button>
-								</div>
+  <ul class = "pagination">
+    <li class = "page-item disabled">
+      <a class="page-link" href=""> <font style = "vertical-align : inherit;">  << </font> </a>
+    </li>
+    <li class = "page-item active">
+      <a class="page-link" href=""> <font style = "vertical-align : inherit;"> 1 </font>  </a>
+    </li>
+    <li class = "page-item">
+      <a class="page-link" href=""> <font style = "vertical-align : inherit;"> 2 </font> </a>
+    </li>
+    <li class = "page-item">
+      <a class="page-link" href=""> <font style = "vertical-align : inherit;"> 3 </font>  </a>
+    </li>
+    <li class = "page-item">
+      <a class="page-link" href=""> <font style = "vertical-align : inherit;">  4 </font>  </a>
+    </li>
+    <li class = "page-item">
+      <a class="page-link" href=""> <font style = "vertical-align : inherit;">  5 </font>  </a>
+    </li>
+    <li class = "page-item">
+      <a class="page-link" href=""> <font style = "vertical-align : inherit;">  >> </font>  </a>
+    </li>
+  </ul>
+</div>
 							</div>
 						</div>
 					</div>
@@ -282,7 +297,7 @@
 					<div class="row">
 						<div class="col-md-12">
 							<p>
-								© 2019 All Rights Reserved. Design by<a
+								Â© 2019 All Rights Reserved. Design by<a
 									href="https://html.design/"> Free Html Templates</a>
 							</p>
 						</div>
