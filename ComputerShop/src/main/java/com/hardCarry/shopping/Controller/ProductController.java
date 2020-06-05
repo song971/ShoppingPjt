@@ -17,8 +17,4 @@ public class ProductController { // 제품 컨트롤러
 		return "productView";
 	}
 	
-	@RequestMapping("index.do") // 제품 상세 페이지
-	public String indexView(Model model){
-		return "index";
-	}
 }

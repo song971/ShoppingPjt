@@ -1,7 +1,7 @@
 
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="UTF-8">
 <head>
 <%@include file="./commons/header/metaHeader.jsp"%>
 </head>

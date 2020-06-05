@@ -19,42 +19,35 @@ public class HomeController {
 	public @ResponseBody String home(@RequestBody String id) {
 		return id;
 	}
-		
+
 	@RequestMapping("about.do")
 	public String about(Model model) {
 		return "about";
-		}
-	
-	
+	}
+
 	@RequestMapping("computer.do")
 	public String computer(Model model) {
 		return "computer";
-		}
-	
+	}
 
 	@RequestMapping("contact.do")
 	public String contact(Model model) {
 		return "contact";
-		}
-	
-	
+	}
+
 	@RequestMapping("index.do")
 	public String index(Model model) {
 		return "index";
-		}
-	
-	
+	}
+
 	@RequestMapping("laptop.do")
 	public String laptop(Model model) {
 		return "laptop";
-		}
-	
-	
+	}
+
 	@RequestMapping("productq.do")
 	public String productq(Model model) {
 		return "productq";
-		}
-	
-	
-	
+	}
+
 }
