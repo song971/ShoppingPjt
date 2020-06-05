@@ -41,4 +41,5 @@ public class AdminController { // 관리자 컨트롤러
 	public String imagePage(Model model) {
 		return "imagePage";
 	}
+	
 }

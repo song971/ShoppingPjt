@@ -31,9 +31,14 @@
 		<load-on-startup>1</load-on-startup>
 	</servlet>
 
-	<servlet-mapping>
+	<servlet-mapping> <!-- 정적 파일 -->
 		<servlet-name>appServlet</servlet-name>
-		<url-pattern>/*</url-pattern>
+		<url-pattern>/</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping> <!-- 내가 쓸컨트롤러 -->
+		<servlet-name>appServlet</servlet-name>
+		<url-pattern>*.do</url-pattern>
 	</servlet-mapping>
 
 </web-app>

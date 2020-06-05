@@ -19,4 +19,17 @@ public class HomeController {
 	public @ResponseBody String home(@RequestBody String id) {
 		return id;
 	}
+	
+	@RequestMapping("logcategory.do") 
+	public String logcategory(Model model) {
+		System.out.println("logcategory");
+		return "logcategory";
+	}
+	
+	@RequestMapping("index.do") // 메인
+	public String index(Model model) {
+		System.out.println("index");
+		return "index";
+	}
+	
 }
