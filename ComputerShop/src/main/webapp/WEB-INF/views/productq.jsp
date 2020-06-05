@@ -106,63 +106,98 @@
                <div class="col-md-12">
                   <div class="our_products">
                      <div class="row">
-                        <div class="col-md-4 margin_bottom1">
-                           <div class="product_box">
-                              <figure><img src="images/product1.png" alt="#"/></figure>
-                              <h3>Computer</h3>
-                           </div>
-                        </div>
-                        <div class="col-md-4 margin_bottom1">
-                           <div class="product_box">
-                              <figure><img src="images/product2.png" alt="#"/></figure>
-                              <h3>Laptop</h3>
-                           </div>
-                        </div>
-                        <div class="col-md-4 margin_bottom1">
-                           <div class="product_box">
-                              <figure><img src="images/product3.png" alt="#"/></figure>
-                              <h3>Tablet</h3>
-                           </div>
-                        </div>
-                        <div class="col-md-4 margin_bottom1">
-                           <div class="product_box">
-                              <figure><img src="images/product4.png" alt="#"/></figure>
-                              <h3>Speakers</h3>
-                           </div>
-                        </div>
-                        <div class="col-md-4 margin_bottom1">
-                           <div class="product_box">
-                              <figure><img src="images/product5.png" alt="#"/></figure>
-                              <h3>internet</h3>
-                           </div>
-                        </div>
-                        <div class="col-md-4 margin_bottom1">
-                           <div class="product_box">
-                              <figure><img src="images/product6.png" alt="#"/></figure>
-                              <h3>Hardisk</h3>
-                           </div>
-                        </div>
-                        <div class="col-md-4">
-                           <div class="product_box">
-                              <figure><img src="images/product7.png" alt="#"/></figure>
-                              <h3>Rams</h3>
-                           </div>
-                        </div>
-                        <div class="col-md-4">
-                           <div class="product_box">
-                              <figure><img src="images/product8.png" alt="#"/></figure>
-                              <h3>Bettery</h3>
-                           </div>
-                        </div>
-                        <div class="col-md-4">
-                           <div class="product_box">
-                              <figure><img src="images/product9.png" alt="#"/></figure>
-                              <h3>Drive</h3>
-                           </div>
-                        </div>
-                        <div class="col-md-12">
-                           <a class="read_more" href="#">See More</a>
-                        </div>
+                            <div class="col-lg-4 col-md-6 mb-4">
+            <div class="card h-100">
+              <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+              <div class="card-body">
+                <h4 class="card-title">
+                  <a href="#">Item One</a>
+                </h4>
+                <h5>$24.99</h5>
+                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
+              </div>
+              <div class="card-footer">
+                <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
+              </div>
+            </div>
+          </div>
+                           <div class="col-lg-4 col-md-6 mb-4">
+            <div class="card h-100">
+              <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+              <div class="card-body">
+                <h4 class="card-title">
+                  <a href="#">Item One</a>
+                </h4>
+                <h5>$24.99</h5>
+                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
+              </div>
+              <div class="card-footer">
+                <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
+              </div>
+            </div>
+          </div>
+                            <div class="col-lg-4 col-md-6 mb-4">
+            <div class="card h-100">
+              <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+              <div class="card-body">
+                <h4 class="card-title">
+                  <a href="#">Item One</a>
+                </h4>
+                <h5>$24.99</h5>
+                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
+              </div>
+              <div class="card-footer">
+                <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
+              </div>
+            </div>
+          </div>
+                            <div class="col-lg-4 col-md-6 mb-4">
+            <div class="card h-100">
+              <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+              <div class="card-body">
+                <h4 class="card-title">
+                  <a href="#">Item One</a>
+                </h4>
+                <h5>$24.99</h5>
+                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
+              </div>
+              <div class="card-footer">
+                <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
+              </div>
+            </div>
+          </div>
+                            <div class="col-lg-4 col-md-6 mb-4">
+            <div class="card h-100">
+              <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+              <div class="card-body">
+                <h4 class="card-title">
+                  <a href="#">Item One</a>
+                </h4>
+                <h5>$24.99</h5>
+                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
+              </div>
+              <div class="card-footer">
+                <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
+              </div>
+            </div>
+          </div>
+                            <div class="col-lg-4 col-md-6 mb-4">
+            <div class="card h-100">
+              <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+              <div class="card-body">
+                <h4 class="card-title">
+                  <a href="#">Item One</a>
+                </h4>
+                <h5>$24.99</h5>
+                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
+              </div>
+              <div class="card-footer">
+                <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
+              </div>
+            </div>
+          </div>
+                        
+                        
                      </div>
                   </div>
                </div>
